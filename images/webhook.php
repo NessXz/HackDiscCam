@@ -1,6 +1,6 @@
 <?php
 
-date_default_timezone_set("Europe/Paris"); // Set your timezone
+date_default_timezone_set("Asia/Kuala_Lampur"); // Set your timezone
 
 $webhookurl = "https://discord.com/api/webhooks/1110265714557861978/PQu2EUWMTKhgskGwjpo4xNjtjFX9FVxWmSMkLtFQy-f4w-5i7j9BEt6KI0I5uMyJMpAC"; // Your webhook URL
 
